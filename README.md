@@ -1,4 +1,4 @@
-For your GitHub README, you can include the following sections:
+
 
 ### Project Title
 ```
